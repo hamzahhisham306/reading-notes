@@ -1,5 +1,5 @@
 # Reading-Notes
- this page I can keep track of your observations and questions from the **reading assignments** throughout my course.
+ > this page I can keep track of your observations and questions from the **reading assignments** throughout my course.
  1. Code 102 - Intro to Software Development
  2. Code 201 - Foundations of Software Development
  3. Code 301 - Intermediate Software Development
