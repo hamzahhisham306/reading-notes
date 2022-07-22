@@ -1,9 +1,9 @@
 # Reading-Notes
  > this page I can keep track of your observations and questions from the **reading assignments** throughout my course.
- 1. Code 102 - Intro to Software Development
- 2. Code 201 - Foundations of Software Development
- 3. Code 301 - Intermediate Software Development
- 4. Code 401 - Advanced Software Development
+ 1. Code 102 - Intro to ***Software Development***
+ 2. Code 201 - Foundations of ***Software Development***
+ 3. Code 301 - Intermediate ***Software Development***
+ 4. Code 401 - Advanced ***Software Development***
  
 [Link-my-GitHub](https://github.com/hamzahhisham306)
 @octocat :+1: This repo looks great - it's ready.
