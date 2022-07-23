@@ -1,4 +1,7 @@
 # Reading-Notes
+**About myself**:
+*Hello Everyone My name is Hamza, I am 22 years old, I studied cyber security at Al-Balqa Applied University. I love learning programming and developing myself*.
+
  > this page I can keep track of your observations and questions from the **reading assignments** throughout my course.
  1. Code 102 - Intro to ***Software Development***
  2. Code 201 - Foundations of ***Software Development***
