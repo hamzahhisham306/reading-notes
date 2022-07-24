@@ -28,9 +28,9 @@ The special term "props" in React is used to pass data from one component to ano
 The fact that data and props are being passed in a unidirectional flow is what matters here, though. (from parent to child just one way)
 
 ##### How are ***props*** used in React?
-1.define an attribute and its value
-2.pass it to child component(s) by using Props
-3.render the Props Data
+1. define an attribute and its value
+2. pass it to child component(s) by using Props
+3. render the Props Data
 
 ##### What is the flow of *props*?
 >In React apps, information travels one way from parent to kid by virtue of passing props.
