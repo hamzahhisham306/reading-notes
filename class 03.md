@@ -45,3 +45,6 @@ const first = {firstname: "hamzah"}
 const last = {lastname: "Alddamas"}
 const combine = {...first, ...last, age: "22"}
 
+
+## Things I want to know more about
+
