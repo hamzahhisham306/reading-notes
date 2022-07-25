@@ -27,11 +27,11 @@ JavaScript data type, including arrays, objects, and integers.
   It functions similarly to HTML attributes because it is an immutable object. Since the props are immutable, they cannot be changed 
   from within the component. But inside the components, we may add properties, often known as props. Thus, immutable data is added to the component via the props.
   
-  6. When do we re-render our application?
+6. When do we re-render our application?
    when we need to change content or update date.
    
-  7. What are some examples of things that we could store in state?
+7. What are some examples of things that we could store in state?
     it could be array to store something or it could be number to be counter for something.
     
     
-    ## Things I want to know more abo
+    ## Things I want to know more about
