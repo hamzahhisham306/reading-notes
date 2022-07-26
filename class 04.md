@@ -11,20 +11,20 @@
 
 
 3. How do we target what the user is entering if we have an event handler on an input field?
-  > Using the.target property, we can direct our attention to the event target.
+   > Using the.target property, we can direct our attention to the event target.
  
 4. Why would we use a ternary operator?
- >  it provides a way to shorten a simple if else block and helps you to write conditional code blocks in a more concise way.
+   >  it provides a way to shorten a simple if else block and helps you to write conditional code blocks in a more concise way.
 
 5. Rewrite the following statement using a ternary statement:
- > if(x===y){
-  console.log(true);
-} else {
-  console.log(false);
-}
- the solution is:
+   > if(x===y){
+    console.log(true);
+   }   else {
+    console.log(false);
+   }
+  the solution is:
  
- x===y?true:false
+  x===y?true:false
 
 
 ## Things I want to know more about
