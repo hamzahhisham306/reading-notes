@@ -22,3 +22,9 @@
 7. Give an example of how a diverse company can serve a diverse user base or vise-versa.
   > for example DELL company make many products According to the user's needs like user who want laptop gaming or laptop for programming or who want to 
   > render videos and photoshop and people with disabilities It covers all users
+
+
+
+
+
+## Things I want to know more about
