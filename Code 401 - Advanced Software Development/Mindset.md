@@ -23,6 +23,17 @@
 
  > When you have a growth mindset, you believe you can gain the knowledge and skills necessary to succeed, which makes every challenge a learning opportunity. Given the numerous challenges entrepreneurs face, a growth mindset can be a powerful tool as you work toward your venture’s success.
 
+# Angela Lee Duckworth on Grit:
+Grit is commitment and persistence toward extremely long-term goals.
+Grit is having stamina.
+Grit is the ability to work incredibly hard for years to turn your dreams into reality by being committed to them day in and day out.
+
+# Alain de Botton on Redefining Success.
+
+> There are additional factors that may make it more difficult than ever to be calm right now. The hope we all have for our professions is one of them, and it's contradictory because it's connected to something that's really great. Never before have hopes for what humans can do over their lifetimes been so high. Many people have informed us that anyone is capable of anything. The caste system is no longer in place, and anyone can now advance to any position they choose. And it's a lovely concept. We are all basically equal, so there is a certain equality attitude that goes along with that. Hierarchies are not well defined. This has one very significant issue, and that issue is jealousy. Envy,but if there's one dominant emotion in modern society, that is envy. And it's linked to the spirit of equality.
+
+> Everyone, including politicians on both the Left and the Right, agrees that meritocracy is a beautiful idea and that we should all work to make our society as meritocratic as possible. What exactly is a meritocratic society, in other words? In a meritocratic society, nothing should prevent you from rising to the top if you have the necessary talent, drive, and skills. It's a lovely concept. The issue is that if you truly believe in a society where those who merit it and rise to the top do so, you will also implicitly and in a far more vicious way believe in a society where those who don't and stay at the bottom. In other words, where you stand
+ 
 
 
 
