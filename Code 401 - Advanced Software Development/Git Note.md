@@ -33,8 +33,34 @@
   - file.txt - a plain text file.
   - file.png, file.gif, file.jpg - an image.
   - Linux is Case Sensitive
-  - Spaces in file and directory names are perfectly valid but we need to be a little careful      with them
+  - Spaces in file and directory names are perfectly valid but we need to be a little careful  with them.
+
+9. Manual Pages > The manual pages are a collection of pages that describe each command that is available on your system, including what they do, how to use them specifically, and what command line parameters they take. While some of them can be a little confusing at first, once you get the hang of them, they are generally consistent in their structure. You can access the manual pages by using the command.
+  - for example : man <command> man ls, man pwd, man mkdir.
+  - man -k <search term> Do a keyword search for all manual pages containing the given search term.
+  - /<term> Within a manual page, perform a search for 'term'
+  - n >After performing a search within a manual page, select the next found item.
  
+
+
+ 10. File Manipulation!
+   - to make new dir you have to use mkdir nameDire.
+   - mkdir -p   -p >  which tells mkdir to make parent directories as needed.
+   -  -v which makes mkdir tell us what it is doing.
+   - for removing a dir you have to use > rmdir  nameDir. 
+   - to create new file > touch filename.
+   - to copy file to file > cp source destination.
+   - to moving a file > mv <source> <destination>
+   - to remove a file > rm <fileName>
+ 
+ 11. [Cheat Sheet ](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+
+
+
+
+
+
+
 
 
 
