@@ -22,17 +22,20 @@
 
 
 3- Difference between graph and tree
-   1- Graph:
-     -Structure: It is a collection of vertices/nodes and edges.
-     -Edges	:Each node can have any number of edges.	
-     - Types of Edges	:They can be directed or undirected	
-     - Root node	:A cycle can be formed.	
-     - Traversal	:For graph traversal, we use Breadth-First Search (BFS), and Depth-First Search (DFS).	
-   2- Tree:
-     -Structure: It is a collection of nodes and edges.
-     -Edges	:If there is n nodes then there would be n-1 number of edges	
-     - Types of Edges	:They are always directed	
-     - Root node	There is a unique node called root(parent) node in trees.
-     - Traversal: We traverse a tree using in-order, pre-order, or post-order traversal methods.
+
+1- Graph:
+   - Structure: It is a collection of vertices/nodes and edges.
+   - Edges	:Each node can have any number of edges.	
+   - Types of Edges	:They can be directed or undirected	
+   - Root node	:A cycle can be formed.	
+   - Traversal	:For graph traversal, we use Breadth-First Search (BFS), and Depth-First Search (DFS).
+
+
+2- Tree:
+   - Structure: It is a collection of nodes and edges.
+   - Edges	:If there is n nodes then there would be n-1 number of edges	
+   - Types of Edges	:They are always directed	
+   - Root node	There is a unique node called root(parent) node in trees.
+   - Traversal: We traverse a tree using in-order, pre-order, or post-order traversal methods.  
 .	
      
